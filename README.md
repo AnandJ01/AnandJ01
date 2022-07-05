@@ -3,7 +3,6 @@
 - 🔭 I’m currently working toward my bachalor's degree.
 - 🌱 I’m currently learning how to use github.
 - 🤔 I’m looking for help with all the in's and out's of git and github.
-- ⚡ Fun fact: It's almost two years since I've been on campus.
 <!--
 **AnandJ01/AnandJ01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
