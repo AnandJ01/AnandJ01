@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### My name is Anand Jasti
-- 🔭 I’m currently working toward my bachalor's degree.
+- 🔭 I’m currently working toward my bachalor's degree in Computer Engineering.
 - 🌱 I’m currently learning how to use github.
 - 🤔 I’m looking for help with all the in's and out's of git and github.
 <!--
