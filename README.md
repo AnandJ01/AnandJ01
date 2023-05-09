@@ -1,8 +1,8 @@
 ### Hi there 👋
 #### My name is Anand Jasti
-- 🔭 I’m currently working toward my bachalor's degree in Computer Engineering.
-- 🌱 I’m currently learning how to use github.
-- 🤔 I’m looking for help with all the in's and out's of git and github.
+- 🔭 I'm a graduate of California State University, Long Beach with a bachelor's degree in Computer Engineering.
+- 🌱 I’m currently learning how to use GitHub.
+- 🤔 I’m looking for help with all the ins and outs of git and GitHub.
 <!--
 **AnandJ01/AnandJ01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
